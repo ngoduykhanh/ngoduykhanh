@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/ngoduykhanh/ngoduykhanh/blob/master/images/banner.png)
 
 Welcome to my Github profile page where you can get to know me...
 
