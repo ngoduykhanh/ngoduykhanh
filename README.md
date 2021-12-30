@@ -11,14 +11,6 @@ Welcome to my Github profile page where you can get to know me...
 * ⛵   Encouraging people for open source collaborations.
 * ✍🏻   I write my personal thoughts on Tech in my [Personal Blog](https://blog.ndk.name/).
 
-
-<a href="https://github.com/ngoduykhanh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoduykhanh&hide=html,css&theme=radical&layout=compact" />
-</a>
-<a href="https://github.com/ngoduykhanh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngoduykhanh&count_private=true&theme=radical&hide=contribs&show_icons=true&hide_title=true" />
-</a>
-
 <hr>
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
