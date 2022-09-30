@@ -15,12 +15,6 @@ Welcome to my Github profile page where you can get to know me...
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
-<p align="center">
-<a href= "https://www.linkedin.com/in/ngoduykhanh/"><img src="https://image.flaticon.com/icons/png/32/174/174857.png"/></a>
-<a href= "https://twitter.com/ngokhanhit"><img src="https://image.flaticon.com/icons/png/32/174/174876.png"/></a>
-<a href= "https://ndk.name"><img src="https://image.flaticon.com/icons/png/32/841/841364.png"/></a>
-</p>
-
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ngoduykhanh" alt="visitor badge"/>       
 </p>
